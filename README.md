@@ -79,3 +79,9 @@ VS Code IDE
 Virtual Environment (venv)
 
 Tested locally with torch.backends.mps.is_available() == True
+
+
+
+
+
+
