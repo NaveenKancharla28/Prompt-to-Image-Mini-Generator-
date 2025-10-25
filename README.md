@@ -12,13 +12,7 @@ It allows users to generate high-quality AI art directly on their Mac using a mi
 
 ---
 
-## 🖥️ Preview
 
-### 🔹 Model Loaded Successfully
-<img src="images/model_loaded.png" width="800">
-
-### 🔹 Generated Example Output
-<img src="images/generated_sample.png" width="512">
 
 ---
 
